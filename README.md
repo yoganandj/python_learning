@@ -11,7 +11,7 @@ A structured step-by-step repository to learn core Python data structures and id
 | 3 | **Set** | Completed | [03_sets.py](concepts/03_sets.py) |
 | 4 | **Dict** | Completed | [04_dictionaries.py](concepts/04_dictionaries.py) |
 | 5 | **List/Dict Comprehensions** | Completed | [05_comprehensions.py](concepts/05_comprehensions.py) |
-| 6 | **Unpacking** | Next | `concepts/06_unpacking.py` |
+| 6 | **Unpacking** | Completed | [06_unpacking.py](concepts/06_unpacking.py) |
 
 ---
 

@@ -9,7 +9,7 @@ import copy
 
 
 def demo_creation():
-    print("--- 1. Creation & Initialization ---")
+    print("--- 1. Creation & Initialization ---")    
     # Empty lists
     empty_1 = []
     empty_2 = list()
